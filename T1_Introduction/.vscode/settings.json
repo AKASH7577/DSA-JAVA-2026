@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "Pratice_Number",
+        "Pratice_Array"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
